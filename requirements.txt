@@ -1,0 +1,10 @@
+Flask==1.1.0
+gunicorn==19.6.0
+scipy>=1.4.0
+tensorflow==2.14.1
+numpy>=1.18.5
+tqdm>=4.30.0
+pandas>=1.0.0
+keras
+opencv-python==4.8.1.78
+
